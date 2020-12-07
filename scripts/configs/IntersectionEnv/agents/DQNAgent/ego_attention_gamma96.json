@@ -1,5 +1,5 @@
 {
-    "base_config": "configs/IntersectionEnv/agents/DQNAgent/baseline_0.96gamma.json",
+    "base_config": "configs/IntersectionEnv/agents/DQNAgent/baseline_96gamma.json",
     "model": {
         "type": "EgoAttentionNetwork",
         "embedding_layer": {
