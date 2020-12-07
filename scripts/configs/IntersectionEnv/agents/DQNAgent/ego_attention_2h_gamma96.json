@@ -1,5 +1,5 @@
 {
-    "base_config": "configs/IntersectionEnv/agents/DQNAgent/ego_attention_gamma0.96.json",
+    "base_config": "configs/IntersectionEnv/agents/DQNAgent/ego_attention_gamma96.json",
     "model": {
         "attention_layer": {
             "heads": 2
